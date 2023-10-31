@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "style": {}
+    },
+    "attributes": {
+        "action-\"candidate-profile-action.jsp?email": {
+            "context": "form"
+        }
+    }
+}
