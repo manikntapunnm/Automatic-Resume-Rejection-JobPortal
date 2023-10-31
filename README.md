@@ -1,1 +1,1 @@
-# Automatic-Resume-Rejection-JobPortal.
+# Automatic-Resume-Rejection-JobPortal
